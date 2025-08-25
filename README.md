@@ -20,6 +20,9 @@ The project includes:
 - **Jupyter Notebook** (for experimentation)  
 
 ---
-Install all the required dependencies
-    pip install -r requirements.txt
+Install all the required dependencies: 
+pip install -r requirements.txt
 
+## Running the Project
+Run the following command inside the project folder: 
+python main.py
