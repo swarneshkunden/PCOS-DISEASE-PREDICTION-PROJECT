@@ -20,5 +20,6 @@ The project includes:
 - **Jupyter Notebook** (for experimentation)  
 
 ---
+Install all the required dependencies
+    pip install -r requirements.txt
 
-## 📂 Project Structure
